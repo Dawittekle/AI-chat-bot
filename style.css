@@ -242,6 +242,10 @@ hr{
     border-radius: 32px;
  
 }
+.chatbot-footer .chatbot-form .input-message::-webkit-scrollbar{
+    display: none;
+    
+}
 .chatbot-footer .chatbot-form:focus-within{
     outline: 2px solid rgb(90, 150, 130) ;
 }
