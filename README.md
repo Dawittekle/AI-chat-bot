@@ -1,2 +1,1 @@
-# AI-chat-bot
- AI chat bot
+This is a chatbot powered by Google APIs that can understand both text and images. Using Google Cloud Natural Language API**, it interprets user queries, detects sentiment, and ensures fluid interactions. With Google Cloud Vision API**, it analyzes images, performing tasks like reading text from photos (OCR) and recognizing objects. This makes the chatbot versatile, enabling users to communicate through both written inputs and images for a more dynamic, responsive experience.
